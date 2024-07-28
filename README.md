@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...EVERYTHING RELATED TO DATA.
 - 🌱 I’m currently learning ...DATA ANALYSIS,VISUALIZATION,PROCESSING
 - 💞️ I’m looking to collaborate on ...projects related to data science and analysis.
-- 📫 How to reach me ... Satej Jadhav (linkedIn) 
+- 📫 How to reach me (linkedIn): Satej Jadhav
+-  (Mail): satejjadhav0801@gmail.com
 
 <!---
 SatejJ/SatejJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
