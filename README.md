@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...EVERYTHING RELATED TO DATA.
 - 🌱 I’m currently learning ...DATA ANALYSIS,VISUALIZATION,PROCESSING
 - 💞️ I’m looking to collaborate on ...projects related to data science and analysis.
-- 📫 How to reach me (linkedIn): Satej Jadhav
+- 📫 How to reach me (linkedIn): https://www.linkedin.com/in/satej-jadhav/
 -  (Mail): satejjadhav0801@gmail.com
 
 <!---
